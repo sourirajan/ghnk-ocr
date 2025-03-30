@@ -1,0 +1,44 @@
+﻿Epoch 0
+Train Loss: 3.81912103181178
+Testing cer is 0.29409029962385796
+Evaluation cer is  0.5638005491608336
+
+
+Epoch 1
+Train Loss: 2.5215187616677235
+Testing cer is 0.27155292914811235
+Evaluation cer is  0.26541530114737527
+
+
+Epoch 2
+Train Loss: 2.0972836357302858
+Evaluation cer is  0.243253244153285
+
+
+Epoch 3
+Train Loss: 1.8976801456698746
+Testing cer is 0.24640510872711435
+Evaluation cer is 0.24432547350490083
+
+
+Epoch 4
+Train Loss: 1.2604041576289229
+Testing cer is 0.2425955548548711
+Evaluation cer is 0.25082501275281677
+
+
+Epoch 5:
+Train Loss: 0.6921759563767668
+Testing cer is 0.23079203215360647
+Evaluation cer is 0.24547131846809886
+
+
+Epoch 6:
+Train Loss: 0.6157706244133093
+Evaluation cer is 0.24341859142617026
+
+
+Epoch 7: (Num beams: 4)
+Train Loss: 0.5613955573248022
+Testing cer is 0.20798867884095254
+Evaluation cer is 0.22677654989168886
